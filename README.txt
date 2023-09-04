@@ -8,7 +8,7 @@ You can run this script on your local machine by following these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/pairs-finder.git
+git clone https://github.com/RafaRisco/find_pairs
 
 2. Navigate to the project directory:
 cd pairs-finder
